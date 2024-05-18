@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://aaqeelshaikh-portfolio.netlify.app/](https://aaqeelshaikh-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/aaqilshaikh97](https://github.com/aaqilshaikh97)
 
 - 📫 How to reach me **shaikhaaqeel97@gmail.com**
 
