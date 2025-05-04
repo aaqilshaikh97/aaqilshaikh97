@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AAQIL SHAIKH</h1>
-<h3 align="center">Crafting Digital Experiences: Web Developer at Faimsoft</h3>
+<h3 align="center">Crafting Digital Experiences: Web Developer at NSBOT</h3>
 
 - 🔭 I’m currently working on **SafeWheel**
 
