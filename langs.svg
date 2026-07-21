@@ -1,0 +1,86 @@
+<svg width="480" height="300" viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ff4fd8"/>
+    <stop offset="100%" stop-color="#38bdf8"/>
+  </linearGradient>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0f172a"/>
+    <stop offset="100%" stop-color="#181030"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <clipPath id="frame"><rect width="480" height="300" rx="20"/></clipPath>
+  <clipPath id="barClip"><rect x="24" y="60" width="432" height="14" rx="7"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="480" height="300" fill="url(#bgGrad)"/>
+  <text x="24" y="32" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#ffffff">Most Used Languages</text>
+
+  <g transform="translate(24,60)" clip-path="url(#barClip)">
+    <rect x="0" y="0" width="432" height="14" fill="#1b2540"/>
+    
+    <rect x="0.0" y="0" width="0" height="14" fill="#3178c6">
+      <animate attributeName="width" begin="0.40s" dur="0.9s" values="0;138.2" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <rect x="138.2" y="0" width="0" height="14" fill="#f1c40f">
+      <animate attributeName="width" begin="0.55s" dur="0.9s" values="0;103.7" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <rect x="241.9" y="0" width="0" height="14" fill="#ff4fd8">
+      <animate attributeName="width" begin="0.70s" dur="0.9s" values="0;86.4" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <rect x="328.3" y="0" width="0" height="14" fill="#3572A5">
+      <animate attributeName="width" begin="0.85s" dur="0.9s" values="0;60.5" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <rect x="388.8" y="0" width="0" height="14" fill="#0C4B33">
+      <animate attributeName="width" begin="1.00s" dur="0.9s" values="0;25.9" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <rect x="414.7" y="0" width="0" height="14" fill="#38bdf8">
+      <animate attributeName="width" begin="1.15s" dur="0.9s" values="0;17.3" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+  </g>
+
+  
+    <g transform="translate(24,110)" opacity="0">
+      <animate attributeName="opacity" begin="0.60s" dur="0.5s" values="0;1" fill="freeze"/>
+      <circle cx="4" cy="-4" r="5" fill="#3178c6"/>
+      <text x="16" y="0" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#d5d9ec">TypeScript</text>
+      <text x="420" y="0" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#3178c6">32%</text>
+    </g>
+    <g transform="translate(24,138)" opacity="0">
+      <animate attributeName="opacity" begin="0.75s" dur="0.5s" values="0;1" fill="freeze"/>
+      <circle cx="4" cy="-4" r="5" fill="#f1c40f"/>
+      <text x="16" y="0" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#d5d9ec">JavaScript</text>
+      <text x="420" y="0" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#f1c40f">24%</text>
+    </g>
+    <g transform="translate(24,166)" opacity="0">
+      <animate attributeName="opacity" begin="0.90s" dur="0.5s" values="0;1" fill="freeze"/>
+      <circle cx="4" cy="-4" r="5" fill="#ff4fd8"/>
+      <text x="16" y="0" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#d5d9ec">React Native</text>
+      <text x="420" y="0" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#ff4fd8">20%</text>
+    </g>
+    <g transform="translate(24,194)" opacity="0">
+      <animate attributeName="opacity" begin="1.05s" dur="0.5s" values="0;1" fill="freeze"/>
+      <circle cx="4" cy="-4" r="5" fill="#3572A5"/>
+      <text x="16" y="0" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#d5d9ec">Python</text>
+      <text x="420" y="0" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#3572A5">14%</text>
+    </g>
+    <g transform="translate(24,222)" opacity="0">
+      <animate attributeName="opacity" begin="1.20s" dur="0.5s" values="0;1" fill="freeze"/>
+      <circle cx="4" cy="-4" r="5" fill="#0C4B33"/>
+      <text x="16" y="0" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#d5d9ec">Django</text>
+      <text x="420" y="0" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#0C4B33">6%</text>
+    </g>
+    <g transform="translate(24,250)" opacity="0">
+      <animate attributeName="opacity" begin="1.35s" dur="0.5s" values="0;1" fill="freeze"/>
+      <circle cx="4" cy="-4" r="5" fill="#38bdf8"/>
+      <text x="16" y="0" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#d5d9ec">SQL</text>
+      <text x="420" y="0" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#38bdf8">4%</text>
+    </g>
+
+  <rect x="1" y="1" width="478" height="298" rx="19" fill="none" stroke="url(#grad)" stroke-opacity="0.5" stroke-width="1.5"/>
+</g>
+</svg>

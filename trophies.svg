@@ -1,0 +1,192 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#ff4fd8"/>
+    <stop offset="100%" stop-color="#38bdf8"/>
+  </linearGradient>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0f172a"/>
+    <stop offset="100%" stop-color="#181030"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <clipPath id="frame"><rect width="900" height="220" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="900" height="220" fill="url(#bgGrad)"/>
+  <text x="24" y="30" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#ffffff">Achievements</text>
+  
+    <g transform="translate(75.0,130) scale(0.2)" opacity="0">
+      <animate attributeName="opacity" begin="0.30s" dur="0.45s" values="0;1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" begin="0.30s" dur="0.55s"
+        values="0.2;1.08;0.96;1" keyTimes="0;0.6;0.85;1" fill="freeze" calcMode="spline"
+        keySplines="0.2 0.8 0.2 1;0.2 0.8 0.2 1;0.2 0.8 0.2 1"/>
+      <g transform="translate(-75.0,-130)">
+        <g transform="translate(75.0,130)">
+          <circle r="42" fill="none" stroke="#ffd700" stroke-width="2.5" opacity="0.55" filter="url(#glow)"/>
+          <path d="M -22 -30 h44 v18 c0 16 -10 26 -22 26 c-12 0 -22 -10 -22 -26 Z" fill="#ffd700"/>
+          <rect x="-18" y="-38" width="12" height="10" rx="2" fill="#ffd700"/>
+          <rect x="6" y="-38" width="12" height="10" rx="2" fill="#ffd700"/>
+          <rect x="-6" y="14" width="12" height="10" fill="#ffd700"/>
+          <rect x="-16" y="22" width="32" height="7" rx="2" fill="#ffd700"/>
+          <rect x="-32" y="-190" width="0" height="0"/>
+          <rect x="-48" y="-46" width="96" height="26" fill="url(#shine0)" opacity="0">
+            <animate attributeName="opacity" values="0;0.8;0" dur="1.6s" begin="0.90s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="-40 0;40 0" dur="1.6s" begin="0.90s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <text x="75.0" y="182" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Commits</text>
+    <text x="75.0" y="198" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" fill="#ffd700">Gold</text>
+    <linearGradient id="shine0" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <g transform="translate(225.0,130) scale(0.2)" opacity="0">
+      <animate attributeName="opacity" begin="0.52s" dur="0.45s" values="0;1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" begin="0.52s" dur="0.55s"
+        values="0.2;1.08;0.96;1" keyTimes="0;0.6;0.85;1" fill="freeze" calcMode="spline"
+        keySplines="0.2 0.8 0.2 1;0.2 0.8 0.2 1;0.2 0.8 0.2 1"/>
+      <g transform="translate(-225.0,-130)">
+        <g transform="translate(225.0,130)">
+          <circle r="42" fill="none" stroke="#ffd700" stroke-width="2.5" opacity="0.55" filter="url(#glow)"/>
+          <path d="M -22 -30 h44 v18 c0 16 -10 26 -22 26 c-12 0 -22 -10 -22 -26 Z" fill="#ffd700"/>
+          <rect x="-18" y="-38" width="12" height="10" rx="2" fill="#ffd700"/>
+          <rect x="6" y="-38" width="12" height="10" rx="2" fill="#ffd700"/>
+          <rect x="-6" y="14" width="12" height="10" fill="#ffd700"/>
+          <rect x="-16" y="22" width="32" height="7" rx="2" fill="#ffd700"/>
+          <rect x="-32" y="-190" width="0" height="0"/>
+          <rect x="-48" y="-46" width="96" height="26" fill="url(#shine1)" opacity="0">
+            <animate attributeName="opacity" values="0;0.8;0" dur="1.6s" begin="1.12s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="-40 0;40 0" dur="1.6s" begin="1.12s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <text x="225.0" y="182" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Pull Shark</text>
+    <text x="225.0" y="198" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" fill="#ffd700">Gold</text>
+    <linearGradient id="shine1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <g transform="translate(375.0,130) scale(0.2)" opacity="0">
+      <animate attributeName="opacity" begin="0.74s" dur="0.45s" values="0;1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" begin="0.74s" dur="0.55s"
+        values="0.2;1.08;0.96;1" keyTimes="0;0.6;0.85;1" fill="freeze" calcMode="spline"
+        keySplines="0.2 0.8 0.2 1;0.2 0.8 0.2 1;0.2 0.8 0.2 1"/>
+      <g transform="translate(-375.0,-130)">
+        <g transform="translate(375.0,130)">
+          <circle r="42" fill="none" stroke="#c0c6d4" stroke-width="2.5" opacity="0.55" filter="url(#glow)"/>
+          <path d="M -22 -30 h44 v18 c0 16 -10 26 -22 26 c-12 0 -22 -10 -22 -26 Z" fill="#c0c6d4"/>
+          <rect x="-18" y="-38" width="12" height="10" rx="2" fill="#c0c6d4"/>
+          <rect x="6" y="-38" width="12" height="10" rx="2" fill="#c0c6d4"/>
+          <rect x="-6" y="14" width="12" height="10" fill="#c0c6d4"/>
+          <rect x="-16" y="22" width="32" height="7" rx="2" fill="#c0c6d4"/>
+          <rect x="-32" y="-190" width="0" height="0"/>
+          <rect x="-48" y="-46" width="96" height="26" fill="url(#shine2)" opacity="0">
+            <animate attributeName="opacity" values="0;0.8;0" dur="1.6s" begin="1.34s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="-40 0;40 0" dur="1.6s" begin="1.34s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <text x="375.0" y="182" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Repos</text>
+    <text x="375.0" y="198" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" fill="#c0c6d4">Silver</text>
+    <linearGradient id="shine2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <g transform="translate(525.0,130) scale(0.2)" opacity="0">
+      <animate attributeName="opacity" begin="0.96s" dur="0.45s" values="0;1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" begin="0.96s" dur="0.55s"
+        values="0.2;1.08;0.96;1" keyTimes="0;0.6;0.85;1" fill="freeze" calcMode="spline"
+        keySplines="0.2 0.8 0.2 1;0.2 0.8 0.2 1;0.2 0.8 0.2 1"/>
+      <g transform="translate(-525.0,-130)">
+        <g transform="translate(525.0,130)">
+          <circle r="42" fill="none" stroke="#7fd3ff" stroke-width="2.5" opacity="0.55" filter="url(#glow)"/>
+          <path d="M -22 -30 h44 v18 c0 16 -10 26 -22 26 c-12 0 -22 -10 -22 -26 Z" fill="#7fd3ff"/>
+          <rect x="-18" y="-38" width="12" height="10" rx="2" fill="#7fd3ff"/>
+          <rect x="6" y="-38" width="12" height="10" rx="2" fill="#7fd3ff"/>
+          <rect x="-6" y="14" width="12" height="10" fill="#7fd3ff"/>
+          <rect x="-16" y="22" width="32" height="7" rx="2" fill="#7fd3ff"/>
+          <rect x="-32" y="-190" width="0" height="0"/>
+          <rect x="-48" y="-46" width="96" height="26" fill="url(#shine3)" opacity="0">
+            <animate attributeName="opacity" values="0;0.8;0" dur="1.6s" begin="1.56s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="-40 0;40 0" dur="1.6s" begin="1.56s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <text x="525.0" y="182" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Stars</text>
+    <text x="525.0" y="198" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" fill="#7fd3ff">Platinum</text>
+    <linearGradient id="shine3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <g transform="translate(675.0,130) scale(0.2)" opacity="0">
+      <animate attributeName="opacity" begin="1.18s" dur="0.45s" values="0;1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" begin="1.18s" dur="0.55s"
+        values="0.2;1.08;0.96;1" keyTimes="0;0.6;0.85;1" fill="freeze" calcMode="spline"
+        keySplines="0.2 0.8 0.2 1;0.2 0.8 0.2 1;0.2 0.8 0.2 1"/>
+      <g transform="translate(-675.0,-130)">
+        <g transform="translate(675.0,130)">
+          <circle r="42" fill="none" stroke="#c0c6d4" stroke-width="2.5" opacity="0.55" filter="url(#glow)"/>
+          <path d="M -22 -30 h44 v18 c0 16 -10 26 -22 26 c-12 0 -22 -10 -22 -26 Z" fill="#c0c6d4"/>
+          <rect x="-18" y="-38" width="12" height="10" rx="2" fill="#c0c6d4"/>
+          <rect x="6" y="-38" width="12" height="10" rx="2" fill="#c0c6d4"/>
+          <rect x="-6" y="14" width="12" height="10" fill="#c0c6d4"/>
+          <rect x="-16" y="22" width="32" height="7" rx="2" fill="#c0c6d4"/>
+          <rect x="-32" y="-190" width="0" height="0"/>
+          <rect x="-48" y="-46" width="96" height="26" fill="url(#shine4)" opacity="0">
+            <animate attributeName="opacity" values="0;0.8;0" dur="1.6s" begin="1.78s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="-40 0;40 0" dur="1.6s" begin="1.78s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <text x="675.0" y="182" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Followers</text>
+    <text x="675.0" y="198" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" fill="#c0c6d4">Silver</text>
+    <linearGradient id="shine4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <g transform="translate(825.0,130) scale(0.2)" opacity="0">
+      <animate attributeName="opacity" begin="1.40s" dur="0.45s" values="0;1" fill="freeze"/>
+      <animateTransform attributeName="transform" type="scale" begin="1.40s" dur="0.55s"
+        values="0.2;1.08;0.96;1" keyTimes="0;0.6;0.85;1" fill="freeze" calcMode="spline"
+        keySplines="0.2 0.8 0.2 1;0.2 0.8 0.2 1;0.2 0.8 0.2 1"/>
+      <g transform="translate(-825.0,-130)">
+        <g transform="translate(825.0,130)">
+          <circle r="42" fill="none" stroke="#7fd3ff" stroke-width="2.5" opacity="0.55" filter="url(#glow)"/>
+          <path d="M -22 -30 h44 v18 c0 16 -10 26 -22 26 c-12 0 -22 -10 -22 -26 Z" fill="#7fd3ff"/>
+          <rect x="-18" y="-38" width="12" height="10" rx="2" fill="#7fd3ff"/>
+          <rect x="6" y="-38" width="12" height="10" rx="2" fill="#7fd3ff"/>
+          <rect x="-6" y="14" width="12" height="10" fill="#7fd3ff"/>
+          <rect x="-16" y="22" width="32" height="7" rx="2" fill="#7fd3ff"/>
+          <rect x="-32" y="-190" width="0" height="0"/>
+          <rect x="-48" y="-46" width="96" height="26" fill="url(#shine5)" opacity="0">
+            <animate attributeName="opacity" values="0;0.8;0" dur="1.6s" begin="2.00s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="-40 0;40 0" dur="1.6s" begin="2.00s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <text x="825.0" y="182" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Streak</text>
+    <text x="825.0" y="198" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" fill="#7fd3ff">Platinum</text>
+    <linearGradient id="shine5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  <rect x="1" y="1" width="898" height="218" rx="19" fill="none" stroke="url(#grad)" stroke-opacity="0.5" stroke-width="1.5"/>
+</g>
+</svg>
