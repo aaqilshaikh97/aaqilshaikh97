@@ -1,133 +1,27 @@
-<div align="center">
+# 💫 About Me:
+# Hi, I'm Shaikh Aaqeel 👋<br><br>### Senior Software Developer | React Native | React.js | TypeScript<br><br>I'm a **Senior Software Developer with 3+ years of experience** building scalable web and mobile applications, with a strong focus on **React Native, React.js, TypeScript, Django, REST APIs, and real-time systems**.<br><br>I enjoy turning complex requirements into **clean, scalable, and high-performance applications**. My experience includes cross-platform mobile development, real-time communication using WebSockets, secure authentication and RBAC, API development, performance optimization, and production deployments.<br><br>### 🚀 What I Work With<br><br>* 📱 React Native & React.js<br>* 💻 JavaScript & TypeScript<br>* ⚙️ Django & REST APIs<br>* 🔄 WebSockets & Real-time Systems<br>* 🔐 Authentication & Role-Based Access Control<br>* 🗺️ Maps, GPS Tracking & Location-Based Systems<br>* 🔥 Firebase<br>* 🛠️ Git, GitHub & Postman<br><br>### 💡 What I Build<br><br>I’m particularly interested in **real-time applications, mobile platforms, scalable architectures, developer tools, and systems that solve real-world problems**.<br><br>Currently, I'm working on building and improving cross-platform applications while focusing on **performance, reusable architecture, code quality, and great user experiences**.<br><br>> **Build scalable. Keep it clean. Make it useful. 🚀**<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img alt="Shaikh Aaqil banner" src="./banner.svg?v=1" width="100%">
-</picture>
 
-<img src="./lanyard.svg?v=1" alt="Shaikh Aaqil ID badge" width="220">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaikhaaqeel/edit/intro/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaqeel.dev@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aaqilshaikh97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aaqilshaikh97&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aaqilshaikh97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Email](https://img.shields.io/badge/Email-shaikh.aaqil%40example.com-ff4fd8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikh.aaqil@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-aaqil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://shaikh-aaqil.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shaikh_aaqil)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aaqilshaikh97&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aaqilshaikh97&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 👋 About Me
+---
+[![](https://komarev.com/ghpvc/?username=aaqilshaikh97&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📱 Senior Software Developer specializing in **React Native** cross-platform mobile apps
-- ⚛️ Comfortable across the full stack — React, Node.js, Django, PostgreSQL, Firebase
-- 🎨 Obsessed with clean UI/UX and pixel-accurate implementation, backed by Figma workflows
-- 🚀 Enjoys turning ambiguous product ideas into scalable, production-ready software
-- ☕ Fueled by coffee, curiosity, and a "Code. Learn. Build. Repeat." mindset
-- 🌱 Currently deepening my knowledge of CI/CD pipelines and native module architecture
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<table>
-<tr>
-<td><img src="./stats.svg?v=1" alt="GitHub stats" width="480"></td>
-<td><img src="./langs.svg?v=1" alt="Most used languages" width="480"></td>
-</tr>
-</table>
-
-<img src="./trophies.svg?v=1" alt="Achievements" width="100%">
-</div>
-
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" width="100%">
-</picture>
-
-<sub>Generated daily by <code>github-snake.yml</code> via <a href="https://github.com/Platane/snk">Platane/snk</a> — pushes to the <code>output</code> branch.</sub>
-</div>
-
-<br>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Description |
-|---|---|---|
-| **[Project One](https://github.com/YOUR_GITHUB_USERNAME/project-one)** | React Native · TypeScript · Firebase | Cross-platform mobile app with offline-first sync |
-| **[Project Two](https://github.com/YOUR_GITHUB_USERNAME/project-two)** | React · Redux Toolkit · Node.js | Full-stack dashboard with real-time analytics |
-| **[Project Three](https://github.com/YOUR_GITHUB_USERNAME/project-three)** | Django · PostgreSQL · REST APIs | Scalable backend service powering multiple clients |
-| **[UI Component Library](https://github.com/YOUR_GITHUB_USERNAME/ui-library)** | React Native · Material UI | Reusable, themeable component library published to npm |
-
-</div>
-
-<br>
-
-## 🏆 Achievements
-
-- 🎖️ Delivered 10+ production React Native apps across iOS & Android
-- 🧩 Built and maintain an open-source React Native UI component library
-- 🤝 Active open-source contributor across the React ecosystem
-- 📈 Consistently ranked in the top contributor tier on internal team metrics
-
-<br>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-ff4fd8?style=flat-square&logo=gmail&logoColor=white)](mailto:shaikh.aaqil@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-8b5cf6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaikh-aaqil)
-[![GitHub](https://img.shields.io/badge/-GitHub-38bdf8?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://shaikh-aaqil.dev)
-
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=ff4fd8&style=for-the-badge&label=PROFILE+VIEWS)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&color=8b5cf6)](https://github.com/YOUR_GITHUB_USERNAME)
-
-<br><br>
-
-**"Code. Learn. Build. Repeat."**
-
-<sub>Thanks for stopping by — feel free to explore my pinned repositories below ⚡</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
