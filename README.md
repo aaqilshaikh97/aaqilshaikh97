@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Developer passionate about building scalable, high-performance applications and solving real-world problems through clean, reliable technology. I enjoy turning ideas into production-ready products and continuously learning, improving, and building better software.<br>
+Hi, I’m Shaikh Aaqeel, a Senior Software Developer currently working at FAIMSOFT Technologies. I work primarily on building and maintaining scalable cross-platform mobile and web applications, with a strong focus on React Native and real-time application development. I’m involved in designing application architecture, developing reusable components, implementing real-time features, optimizing performance, and collaborating with product, design, and backend teams to deliver reliable production-ready solutions.<br>
 
 
 ## 🌐 Socials:
